@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetapp", "aspnetapp.csproj", "{E5FD9D54-0569-4666-BF10-1602A9E92BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FD9D54-0569-4666-BF10-1602A9E92BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FD9D54-0569-4666-BF10-1602A9E92BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FD9D54-0569-4666-BF10-1602A9E92BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FD9D54-0569-4666-BF10-1602A9E92BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
